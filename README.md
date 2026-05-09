@@ -1,6 +1,6 @@
 # 《Horsey Game》C.R.I.S.P.R编辑器 中文汉化版 
 
-中文版地址:[www.glcodeblog.top/horsey-crispr-cn](https://www.glcodeblog.top/horsey-crispr/)  
+中文版地址:[www.glcodeblog.top/horsey-crispr-cn](https://www.glcodeblog.top/horsey-crispr-cn/)  
 英文原版地址:[alexjthomson.github.io/horsey-crispr/](https://alexjthomson.github.io/horsey-crispr/)
 
 ## 说明

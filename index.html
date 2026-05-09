@@ -649,7 +649,7 @@
             "头部形状",
             "眼睛和耳朵",
             "嘴和鼻子",
-            "鹿角与帽檐",
+            "鹿角与帽子球饰",
             "鹿角细节",
             "帽子",
             "颜色",
@@ -1665,7 +1665,7 @@
             WHITE_IS_LETHAL:
                 "如果激活且马驹表现出白色被毛，出生时可能会进行致死判定。根据wiki表，G是激活的致死白色值。",
             FLU_IMMUNITY:
-                "赋予对流感机制的免疫。G为免疫；A/T/C易感。似乎与有时被称为Sweetie的疾病/免疫机制有关。",
+                "赋予对流感机制的免疫。G为免疫；A/T/C易感。可以用于治疗Sweetie的疾病",
             LIMP: "影响步态不对称。C产生严重跛行值，G产生轻微跛行值，A/T正常。可能随年龄恶化。",
             LEG_AND_ARM_LIMP:
                 "同时对全部四肢施加跛行，而不只是步态不对称。Wiki表中C为激活。",
@@ -2720,7 +2720,7 @@
                                     [
                                         createElement("span", {
                                             class: "gene-warning",
-                                            text: "MIXED ALLELES",
+                                            text: "碱基不配对",
                                         }),
                                     ],
                                 );
@@ -2729,7 +2729,7 @@
                                     {
                                         type: "button",
                                         class: "btn-mini",
-                                        text: "Merge",
+                                        text: "合并",
                                     },
                                 );
                                 mergeButton.addEventListener(

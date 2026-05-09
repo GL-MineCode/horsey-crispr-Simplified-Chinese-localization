@@ -1,14 +1,13 @@
-# Horsey C.R.I.S.P.R Editor
+# 《Horsey Game》C.R.I.S.P.R编辑器 中文汉化版 
 
-Access the tool [here](https://alexjthomson.github.io/horsey-crispr/).
+中文版地址:[www.glcodeblog.top/horsey-crispr-cn](https://www.glcodeblog.top/horsey-crispr/)  
+英文原版地址:[alexjthomson.github.io/horsey-crispr/](https://alexjthomson.github.io/horsey-crispr/)
 
-## Contributing
-Feel free to open a PR and I'll read them. I'm very active so it should get
-merged fairly quickly :D
+## 说明
+本仓库克隆自[Alex Thomson的仓库](https://github.com/alexjthomson/horsey-crispr)，并对其进行了汉化工作，这里感谢[Alex Thomson](https://github.com/alexjthomson)制作的英文原版工具
 
-I created this tool by collecting information from lots of different sources so
-some of the information in the tool could be wrong. Any corrections are welcome!
+翻译捉虫请私信[我的B站账号](https://space.bilibili.com/553562457)或者发送PR(不一定能及时看见)
 
-## Useful Links
+## 有用的链接
 - [Genome Wiki](https://horseygame.miraheze.org/wiki/Genome)
 - [Tool Inspiration](https://github.com/hikazey/horseygamegm/tree/main)
